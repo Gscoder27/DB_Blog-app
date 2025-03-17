@@ -1,0 +1,34 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "Vlog-1 :- React JS",
+        "datetime": "2024-09-01",
+        "body": "React JS is a JavaScript library for building user interfaces."
+      },
+      {
+        "id": "2",
+        "title": "Vlog-2 :- React Router",
+        "datetime": "2024-09-02",
+        "body": "React Router is a standard library for routing"
+      },
+      {
+        "id": "3",
+        "title": "Vlog-3 :- React Hooks",
+        "datetime": "March 15, 2025 11:39:01 AM",
+        "body": "React Hooks are functions that let you use state and other React features in function components."
+      },
+      {
+        "id": "4",
+        "title": "Vlog-4 :- React Context API",
+        "datetime": "2024-09-04",
+        "body": "React Context API is a way to share data between components without passing props."
+      },
+      {
+        "id": "5",
+        "title": "Vlog-5 :- React Redux",
+        "datetime": "March 17, 2025 10:50:16 AM",
+        "body": "React Redux is a library that helps you connect your React application to a.0"
+      }
+    ]
+  }
